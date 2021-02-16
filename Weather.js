@@ -12,6 +12,10 @@ const WeatherOptions = {
     Snow: {
         iconName: "ios-snow",
         gradient: ["#4DA0B0","#D39D38"]
+    },
+    Clear: {
+        iconName: "ios-sunny",
+        gradient: ["#4DA0B0","#D39D38"]
     }
 };
 
